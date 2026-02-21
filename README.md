@@ -1,432 +1,260 @@
 <div align="center">
-  
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Prakhar Shrivastava
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=9945FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Solana+Developer;Rust+Enthusiast;DeFi+Protocol+Builder;Building+Production+Systems)](https://git.io/typing-svg)
+# Prakhar Shrivastava
 
-**Building production-grade Web3 infrastructure • Shipping real-time systems • Creating DeFi protocols**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Solana+Developer;Rust+%26+TypeScript+Specialist;DeFi+Protocol+Developer)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/shri-prakhar)
-[![Twitter Follow](https://img.shields.io/twitter/follow/prakharshri18?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prakharshri18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-prakhar-shrivastava)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakharshri18@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=shri-prakhar&color=blueviolet&style=for-the-badge)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-## 🚀 About Me
-```rust
-struct Developer {
-    name: &'static str,
-    role: &'static str,
-    location: &'static str,
-    education: &'static str,
-    current_focus: Vec<&'static str>,
-    languages: Vec<&'static str>,
-}
-
-impl Developer {
-    fn new() -> Self {
-        Developer {
-            name: "Prakhar Shrivastava",
-            role: "Full Stack Engineer & Solana Developer",
-            location: "India 🇮🇳",
-            education: "IIT Madras • CGPA 9.61",
-            current_focus: vec![
-                "Building talent infrastructure at Superteam",
-                "Developing Solana protocols at Turbine",
-                "Architecting production DeFi systems",
-                "Real-time distributed systems in Rust"
-            ],
-            languages: vec!["Rust", "TypeScript", "JavaScript", "Python", "C"],
-        }
-    }
-}
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Current Work
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Superteam Talent
-**Full Stack Developer & Operations Engineer**  
-*Jan 2026 - Present*
-
-- 🔍 Building intelligent talent matching platform
-- 🤖 Semantic candidate ranking with embeddings
-- ⚡ Real-time WebSocket updates
-- 📊 PostgreSQL + async job processing
-
-</td>
-<td width="50%">
-
-### ⚡ Solana Turbine
-**Solana Developer**  
-*Jan 2026 - Present*
-
-- 🏗️ Production Solana programs in Rust
-- 🔐 PDA-based custody systems
-- ⚖️ Governance with timelock proposals
-- 🎯 Compute-optimized architectures
-
-</td>
-</tr>
-</table>
-
-### 💻 100xDevs - Super 30 Engineering Fellow
-*Aug 2024 - Present*
-
-**Selected as 1 of 30 from 10,000+ applicants** for elite Rust & Solana cohort
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Stack
-
-### Blockchain & Web3
-<p>
-  <img alt="Solana" src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-  <img alt="Anchor" src="https://img.shields.io/badge/Anchor-6F4E37?style=for-the-badge&logo=anchor&logoColor=white" />
-  <img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-  <img alt="Jupiter" src="https://img.shields.io/badge/Jupiter-00D4AA?style=for-the-badge&logo=jupiter&logoColor=white" />
-</p>
-
-### Languages
-<p>
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-### Backend & Frameworks
-<p>
-  <img alt="Actix-web" src="https://img.shields.io/badge/Actix--web-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="Tokio" src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
-
-### Frontend
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### Databases & Caching
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
-
-### DevOps & Tools
-<p>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏗️ Featured Projects
-
-<div align="center">
-
-### 🌐 [GlobX - Solana DEX Aggregation & Custody Protocol](https://github.com/Glob-X)
-
-**Production Solana protocol with governance, custody, and trading infrastructure**
-```typescript
-🔐 Three-vault custody (Deposit → Main → Withdrawal)
-⚡ Jupiter DEX aggregation via CPI with invariant checks
-🏛️ Timelock governance with emergency controls
-📊 Double-entry ledger with hash-chain integrity
-🔄 Real-time event indexer + reconciliation engine
-```
-
-**Stack:** `Rust` `Anchor` `TypeScript` `Next.js 16` `PostgreSQL` `Redis` `BullMQ` `Jupiter`
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Glob-X&repo=GlobX&theme=tokyonight&hide_border=true)](https://github.com/Glob-X/GlobX)
+Building production-grade Web3 infrastructure and real-time distributed systems
 
 ---
 
-### 🃏 [Multiplayer Poker Platform](https://github.com/shri-prakhar/poker)
-
-**Production-grade real-time poker server with distributed state**
-```typescript
-🎮 Full No-Limit Texas Hold'em engine
-🔄 Redis pub/sub for horizontal scaling
-🔒 JWT + Argon2 authentication
-⚡ WebSocket with heartbeat detection
-📊 PostgreSQL with SQLx compile-time checks
-```
-
-**Stack:** `Rust` `Actix-web` `PostgreSQL` `Redis` `WebSockets` `Tokio`
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shri-prakhar&repo=poker&theme=tokyonight&hide_border=true)](https://github.com/shri-prakhar/poker)
-
----
-
-### 🎯 [Polymarket Clone - Prediction Market](https://github.com/shri-prakhar/Prediction_market_on_solana)
-
-**Decentralized prediction market with hybrid orderbook + AMM**
-```typescript
-📈 On-chain orderbook with price-time priority
-🔄 Event queue (ring buffer) for efficient processing
-💧 LSMR AMM integration for continuous liquidity
-⚙️ Maker/taker fees + partial fills
-🎲 Off-chain cranker for compute optimization
-```
-
-**Stack:** `Rust` `Anchor` `Solana` `TypeScript` `Next.js`
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shri-prakhar&repo=Prediction_market_on_solana&theme=tokyonight&hide_border=true)](https://github.com/shri-prakhar/Prediction_market_on_solana)
-
----
-
-### 💎 [Collateral Vault System](https://github.com/shri-prakhar/GoQuant_assigment)
-
-**Production vault with real-time on-chain/off-chain reconciliation**
-```typescript
-🔐 On-chain program (deposit/withdraw/lock/unlock/transfer)
-🔄 Event-driven sync: Solana → PostgreSQL → Cache
-⚖️ Balance reconciliation (on-chain vs off-chain)
-📡 WebSocket broadcasts for real-time updates
-📊 Prometheus metrics + rate limiting + audit trails
-```
-
-**Stack:** `Rust` `Anchor` `Actix-web` `PostgreSQL` `Moka Cache` `WebSockets`
-
----
-
-### 💧 [Liquid Staking Protocol (pSOL)](https://github.com/shri-prakhar/LST_CONTRACT)
-
-**Solana liquid staking with cooldown mechanism**
-```typescript
-💰 Stake SOL → mint pSOL liquid tokens
-⏱️ Cooldown-based unstaking with exchange rates
-🔒 PDA vault custody with secure patterns
-✅ Comprehensive Anchor test coverage
-```
-
-**Stack:** `Rust` `Anchor` `SPL Token`
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shri-prakhar&repo=LST_CONTRACT&theme=tokyonight&hide_border=true)](https://github.com/shri-prakhar/LST_CONTRACT)
-
----
-
-### 🧠 [Second Brain - Knowledge Management](https://github.com/shri-prakhar/SecondBrain)
-
-**Full-stack MERN app with AI summarization**
-```typescript
-🤖 AI summarization (LLaMA2 integration)
-🔐 OAuth + JWT authentication
-📚 Multi-content (articles, YouTube, tweets, docs)
-🏷️ Tagging + sharing with expiry
-📝 Zod validation + service architecture
-```
-
-**Stack:** `Node.js` `Express` `TypeScript` `MongoDB` `JWT` `OAuth`
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shri-prakhar&repo=SecondBrain&theme=tokyonight&hide_border=true)](https://github.com/shri-prakhar/SecondBrain)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://github.com/shri-prakhar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/prakharshri18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/-prakhar-shrivastava)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prakharshri18@gmail.com)
 
 </div>
 
-<details>
-<summary><b>📦 View More Projects</b></summary>
+---
 
-<br>
+## About
 
-- **🔐 SPL Token Escrow** - Secure escrow with slot-based timeout and state machine
-- **🎰 Solana Staking Program** - Points-based staking with time-weighted rewards
-- **💸 Paysol dApp** - SOL payment app with wallet-adapter integration
-- **🚰 Faucet dApp** - Developer faucet for testnet automation
-- **🚀 Token Launchpad** - SPL token creation tool with minting flows
-- **🔧 n8n Workflow Platform** - Visual workflow builder with React Flow
+Full-stack engineer specializing in production Solana development, backend infrastructure, and end-to-end system design. Currently at IIT Madras (CGPA 9.61), building DeFi protocols, real-time systems, and developer tooling.
 
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shri-prakhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri-prakhar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shri-prakhar&theme=tokyonight&hide_border=true" />
-</p>
-
-<div align="center">
-  
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shri-prakhar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=shri-prakhar&custom_title=Contribution%20Activity&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shri-prakhar&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shri-prakhar&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shri-prakhar&theme=tokyonight" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 What I'm Up To
-```yaml
-current_projects:
-  - name: "GlobX Trading Infrastructure"
-    status: "In Production"
-    focus: "DEX aggregation + custodial architecture"
-  
-  - name: "Superteam Talent Platform"
-    status: "Building"
-    focus: "Intelligent candidate matching engine"
-  
-  - name: "Solana Governance Protocols"
-    status: "Research & Development"
-    focus: "Timelock proposals + emergency controls"
-
-learning:
-  - "Advanced Solana security patterns"
-  - "Event-driven distributed systems"
-  - "Production observability (Prometheus + Grafana)"
-  - "Zero-knowledge proofs (ZK research)"
-
-open_to:
-  - "DeFi protocol collaborations"
-  - "Solana infrastructure projects"
-  - "Backend architecture consulting"
-  - "Open source contributions"
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Achievements & Recognition
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎖️ Fellowships & Programs
-
-- **100xDevs Super-30 Fellowship**  
-  *1 of 30 from 10,000+ applicants*  
-  Elite Rust & Solana development program
-
-- **Solana Turbine**  
-  *Building production protocols*  
-  Advanced Solana development
-
-- **IIT Madras**  
-  *CGPA 9.61/10*  
-  BS in Electronic Systems
-
-</td>
-<td width="50%" valign="top">
-
-### 🏅 Awards & Recognition
-
-- **6× Debate Competition Winner**  
-  *Communication & Argumentation*
-
-- **MUN Delegatory Committee**  
-  *Leadership & Diplomacy*
-
-- **Research Summit Presenter**  
-  *Research review paper (2024)*
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💭 Philosophy
-
-<div align="center">
-
-> **"I don't just build features—I own complete systems."**
-> 
-> *From smart contract architecture to production deployment, from backend APIs to frontend UX, I take full responsibility for what I ship. End-to-end ownership means caring about performance, scalability, security, and user impact at every layer.*
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Let's Connect
-
-I'm always interested in challenging projects, collaborations, and discussing:
-
-- 🔗 **Solana protocol architecture** - Smart contracts, PDAs, CPIs, compute optimization
-- 🏗️ **Production backend systems** - Real-time, distributed, event-driven architectures
-- 💰 **DeFi infrastructure** - Orderbooks, AMMs, custody, governance, risk management
-- ⚡ **Rust system design** - Async/await, Tokio, performance optimization
-- 🎯 **Developer tooling** - Building better tools for the ecosystem
-
-<div align="center">
-
-### 📫 Reach Out
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/prakharshri18)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-prakhar-shrivastava)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakharshri18@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prakharshri)
-
-**Response time:** Usually within 24 hours
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### ⭐ Star my repositories if you find them useful!
-
-### 💙 Thanks for visiting my profile!
-
-**Building in public • Shipping daily • Learning constantly**
+**Current Focus:**
+- Building talent infrastructure at Superteam
+- Developing Solana protocols at Turbine  
+- Architecting production DeFi systems
+- Real-time distributed systems in Rust
 
 ---
 
-<sub>This README was crafted with 💙 by Prakhar Shrivastava</sub>
+## Professional Experience
+
+### Superteam Talent | Full Stack Developer & Operations Engineer
+**Jan 2026 - Present**
+
+Building intelligent talent matching platform for the Solana ecosystem with semantic candidate ranking, real-time WebSocket updates, and async job processing infrastructure.
+
+**Tech Stack:** Node.js, TypeScript, PostgreSQL, Redis, React, Next.js
+
+---
+
+### Solana Turbine | Solana Developer
+**Jan 2026 - Present**
+
+Developing production-grade Solana programs with PDA-based custody systems, governance frameworks with timelock proposals, and compute-optimized instruction handlers.
+
+**Tech Stack:** Rust, Anchor, Solana
+
+---
+
+### 100xDevs | Super 30 Engineering Fellow
+**Aug 2024 - Present**
+
+Selected as 1 of 30 from 10,000+ applicants for elite Rust and Solana development program. Building end-to-end applications across frontend, backend, and blockchain infrastructure.
+
+**Tech Stack:** Rust, Solana, TypeScript, System Design
+
+---
+
+## Technical Expertise
+
+**Blockchain & Web3**
+- Solana, Anchor Framework, SPL Token Program
+- Jupiter DEX Integration, PDAs, CPIs
+- Smart Contract Architecture, DeFi Protocols
+
+**Languages**
+- Rust, TypeScript, JavaScript, Python, C
+
+**Backend & Infrastructure**
+- Actix-web, Node.js, Express, Tokio
+- PostgreSQL (SQLx), MongoDB, Redis, Prisma
+- WebSockets, Event-Driven Architecture
+- Docker, Prometheus, Rate Limiting
+
+**Frontend**
+- React, Next.js, TailwindCSS
+- Web3 Wallet Integration
+- Real-time UI with WebSockets
+
+---
+
+## Featured Projects
+
+### GlobX - Solana DEX Aggregation & Custody Protocol
+[View Repository](https://github.com/Glob-X)
+
+Production Solana protocol featuring three-vault custody architecture, Jupiter DEX aggregation via CPI, timelock governance, double-entry ledger with hash-chain integrity, and real-time event indexing with reconciliation.
+
+**Technologies:** Rust, Anchor, TypeScript, Next.js 16, PostgreSQL, Redis, BullMQ, Jupiter
+
+**Key Features:**
+- Three-vault custody flow (Deposit → Main → Withdrawal)
+- Jupiter DEX aggregation with invariant validation
+- Governance with timelock proposals and emergency controls
+- Custodial trading with on-chain settlement
+- Balance reconciliation engine
+
+---
+
+### Multiplayer Poker Platform
+[View Repository](https://github.com/shri-prakhar/poker)
+
+Production-grade real-time poker server supporting concurrent games with distributed state synchronization, horizontal scalability via Redis pub/sub, and comprehensive poker engine implementation.
+
+**Technologies:** Rust, Actix-web, PostgreSQL, Redis, WebSockets, Tokio
+
+**Key Features:**
+- Full No-Limit Texas Hold'em implementation
+- Redis pub/sub for multi-instance deployment
+- JWT + Argon2 authentication with refresh tokens
+- WebSocket connections with heartbeat detection
+- Compile-time checked SQL queries with SQLx
+
+---
+
+### Prediction Market Protocol (Polymarket Clone)
+[View Repository](https://github.com/shri-prakhar/Prediction_market_on_solana)
+
+Decentralized prediction market on Solana combining on-chain orderbook trading with LSMR AMM for hybrid liquidity provisioning.
+
+**Technologies:** Rust, Anchor, Solana, TypeScript, Next.js
+
+**Key Features:**
+- On-chain orderbook with price-time priority matching
+- Event queue architecture (ring buffer) for efficient processing
+- LSMR AMM integration for continuous liquidity
+- Maker/taker fee accounting with partial fills
+- Off-chain cranker for compute optimization
+
+---
+
+### Collateral Vault System
+[View Repository](https://github.com/shri-prakhar/GoQuant_assigment)
+
+Production collateral vault for perpetual futures with real-time on-chain/off-chain reconciliation and event-driven synchronization.
+
+**Technologies:** Rust, Anchor, Actix-web, PostgreSQL, Moka Cache, WebSockets
+
+**Key Features:**
+- On-chain vault operations (deposit, withdraw, lock, unlock, transfer)
+- Event-driven sync pipeline (Solana → PostgreSQL → Cache)
+- Balance reconciliation engine with mismatch detection
+- Real-time WebSocket broadcasts
+- Prometheus metrics and audit trails
+
+---
+
+### Liquid Staking Protocol (pSOL)
+[View Repository](https://github.com/shri-prakhar/LST_CONTRACT)
+
+Solana liquid staking protocol with cooldown-based unstaking mechanism and secure PDA vault custody.
+
+**Technologies:** Rust, Anchor, SPL Token
+
+**Key Features:**
+- Stake SOL and mint liquid pSOL tokens
+- Cooldown-based unstaking with dynamic exchange rates
+- Secure PDA authority patterns
+- Comprehensive test coverage with Anchor framework
+
+---
+
+### Second Brain - Knowledge Management System
+[View Repository](https://github.com/shri-prakhar/SecondBrain)
+
+Full-stack knowledge management application with AI-powered summarization and multi-content support.
+
+**Technologies:** Node.js, Express, TypeScript, MongoDB, JWT, OAuth
+
+**Key Features:**
+- AI summarization integration (LLaMA2)
+- OAuth and JWT authentication
+- Multi-content support (articles, YouTube, tweets, documents)
+- Tagging system with sharing workflows
+- Service-based architecture with Zod validation
+
+---
+
+## Additional Projects
+
+**Blockchain Infrastructure**
+- SPL Token Escrow Contract - Secure escrow with slot-based timeout
+- Solana Staking Program - Points-based staking with time-weighted rewards
+- Token Launchpad - SPL token creation and minting tool
+
+**Full-Stack Applications**
+- n8n Workflow Platform - Visual workflow builder with React Flow
+- Paysol dApp - SOL payment application with wallet integration
+- Developer Faucet - Testnet automation tool
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shri-prakhar&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri-prakhar&layout=compact&theme=default&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shri-prakhar&theme=default&hide_border=true" />
+</p>
+
+---
+
+## Coding Activity (Real-time)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## Education & Recognition
+
+**Indian Institute of Technology Madras**  
+Bachelor of Science in Electronic Systems | CGPA: 9.61/10 | 2023-2027
+
+**Achievements:**
+- 100xDevs Super-30 Fellowship (1 of 30 from 10,000+ applicants)
+- 6x Debate Competition Winner
+- Model United Nations Delegatory Committee Member
+- Research Summit Presenter (2024)
+
+---
+
+## Professional Interests
+
+**Areas of Focus:**
+- Solana protocol architecture and smart contract security
+- Production backend systems with event-driven architectures
+- DeFi infrastructure (orderbooks, AMMs, custody, governance)
+- Rust systems programming and performance optimization
+- Developer tooling and infrastructure
+
+**Open to:**
+- DeFi protocol collaborations
+- Solana infrastructure projects
+- Backend architecture consulting
+- Open source contributions
+
+---
+
+## Contact
+
+**Email:** prakharshri18@gmail.com  
+**LinkedIn:** [linkedin.com/in/-prakhar-shrivastava](https://linkedin.com/in/-prakhar-shrivastava)  
+**Twitter:** [@prakharshri18](https://twitter.com/prakharshri18)  
+**GitHub:** [github.com/shri-prakhar](https://github.com/shri-prakhar)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=shri-prakhar&color=0366d6&style=flat-square)
+
+Building production systems · Shipping daily · Contributing to open source
 
 </div>
