@@ -13,6 +13,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-prakhar-shrivastava)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakharshri18@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=shri-prakhar&color=blueviolet&style=for-the-badge)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
@@ -145,8 +147,6 @@ impl Developer {
 
 ### 🌐 [GlobX - Solana DEX Aggregation & Custody Protocol](https://github.com/Glob-X)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Glob-X&repo=GlobX&theme=tokyonight&hide_border=true)](https://github.com/Glob-X/GlobX)
-
 **Production Solana protocol with governance, custody, and trading infrastructure**
 ```typescript
 🔐 Three-vault custody (Deposit → Main → Withdrawal)
@@ -158,11 +158,11 @@ impl Developer {
 
 **Stack:** `Rust` `Anchor` `TypeScript` `Next.js 16` `PostgreSQL` `Redis` `BullMQ` `Jupiter`
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Glob-X&repo=GlobX&theme=tokyonight&hide_border=true)](https://github.com/Glob-X/GlobX)
+
 ---
 
 ### 🃏 [Multiplayer Poker Platform](https://github.com/shri-prakhar/poker)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shri-prakhar&repo=poker&theme=tokyonight&hide_border=true)](https://github.com/shri-prakhar/poker)
 
 **Production-grade real-time poker server with distributed state**
 ```typescript
@@ -175,11 +175,11 @@ impl Developer {
 
 **Stack:** `Rust` `Actix-web` `PostgreSQL` `Redis` `WebSockets` `Tokio`
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shri-prakhar&repo=poker&theme=tokyonight&hide_border=true)](https://github.com/shri-prakhar/poker)
+
 ---
 
 ### 🎯 [Polymarket Clone - Prediction Market](https://github.com/shri-prakhar/Prediction_market_on_solana)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shri-prakhar&repo=Prediction_market_on_solana&theme=tokyonight&hide_border=true)](https://github.com/shri-prakhar/Prediction_market_on_solana)
 
 **Decentralized prediction market with hybrid orderbook + AMM**
 ```typescript
@@ -191,6 +191,8 @@ impl Developer {
 ```
 
 **Stack:** `Rust` `Anchor` `Solana` `TypeScript` `Next.js`
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shri-prakhar&repo=Prediction_market_on_solana&theme=tokyonight&hide_border=true)](https://github.com/shri-prakhar/Prediction_market_on_solana)
 
 ---
 
@@ -221,6 +223,8 @@ impl Developer {
 
 **Stack:** `Rust` `Anchor` `SPL Token`
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shri-prakhar&repo=LST_CONTRACT&theme=tokyonight&hide_border=true)](https://github.com/shri-prakhar/LST_CONTRACT)
+
 ---
 
 ### 🧠 [Second Brain - Knowledge Management](https://github.com/shri-prakhar/SecondBrain)
@@ -235,6 +239,8 @@ impl Developer {
 ```
 
 **Stack:** `Node.js` `Express` `TypeScript` `MongoDB` `JWT` `OAuth`
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shri-prakhar&repo=SecondBrain&theme=tokyonight&hide_border=true)](https://github.com/shri-prakhar/SecondBrain)
 
 </div>
 
@@ -265,10 +271,6 @@ impl Developer {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shri-prakhar&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shri-prakhar&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
 <div align="center">
   
 ### 🏆 GitHub Trophies
@@ -278,6 +280,23 @@ impl Developer {
 </p>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=shri-prakhar&custom_title=Contribution%20Activity&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shri-prakhar&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shri-prakhar&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shri-prakhar&theme=tokyonight" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -388,16 +407,6 @@ I'm always interested in challenging projects, collaborations, and discussing:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shri-prakhar&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-[![Prakhar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shri-prakhar&theme=react-dark&hide_border=true&area=true)](https://github.com/shri-prakhar)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -408,23 +417,11 @@ I'm always interested in challenging projects, collaborations, and discussing:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shri-prakhar/shri-prakhar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shri-prakhar/shri-prakhar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shri-prakhar/shri-prakhar/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
 
 ### ⭐ Star my repositories if you find them useful!
 
 ### 💙 Thanks for visiting my profile!
-
-![Visitor Count](https://profile-counter.glitch.me/shri-prakhar/count.svg)
 
 **Building in public • Shipping daily • Learning constantly**
 
